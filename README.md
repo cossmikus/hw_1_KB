@@ -50,3 +50,4 @@ The main sections of the project are:
 - `app/auth/router`: Contains the routing logic for the authentication API.
 - `app/auth/adapters`: Contains the JWT management logic.
 - `app/auth/utils`: Contains utility functions, such as password hashing.
+# homework_back_day1
