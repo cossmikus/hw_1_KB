@@ -13,7 +13,7 @@ from .dependencies import parse_jwt_user_data
 
 class GetMyAccountResponse(AppModel):
     id: Any = Field(alias="_id")
-    email: str = ""
+    email: str 
     phone: str = ""
     name: str = ""
     city: str = ""
